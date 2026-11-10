@@ -8,6 +8,8 @@ project-url: https://github.com/TFenby/esp32c2-26mhz/tree/main/brizflash
 difficulty: 2
 ---
 
+![Image of BrizLabs SLRGB024 Product Box](brizlabs-slrgb024-box.jpg "Product Box Image")
+
 <!-- Describe the device here. See the front-matter table on the contributing page for valid options. -->
 
 ## Basic Configuration
